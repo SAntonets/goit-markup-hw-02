@@ -158,5 +158,26 @@ text-transform: capitalize;
 
 .footer-section {
     background-color: #2e2f42;
-    
+
+}
+
+.logo-foot {
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5;
+    }
+
+.logo-studio-part-foot {
+    color: #f4f4fd;
+}
+
+.footer-txt {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
