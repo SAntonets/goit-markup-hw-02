@@ -6,6 +6,10 @@ body {
     font-style: normal;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /** header **/
 
 .logo {
