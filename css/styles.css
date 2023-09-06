@@ -71,20 +71,17 @@ letter-spacing: 0.02em;
 
 .border-servise-button {
 background: #4D5AE5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
 }
 
-.border-servise-button:active, .border-servise-button:hover {
+.border-servise-button:active, .border-servise-button:hover, .border-servise-button:focus {
 background:#404BBF;
 }
 
-.border-servise-button-txt {
-    color:#FFF;
-text-align: center;
-font-size: 56px;
-font-weight: 700;
-line-height: 107.143%;
-letter-spacing: 0.02em;
-}
 
 .advantages-list {
     list-style: none;
