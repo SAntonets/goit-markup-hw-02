@@ -3,4 +3,118 @@ body {
     font-family: "Roboto", sans-serif;
     color:#434455;;
     background-color: #F4F4FD;
+    font-style: normal;
+}
+
+.logo {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 116.667%;
+letter-spacing: 3%;
+text-transform: uppercase;
+text-decoration: none;
+
+}
+
+.logo-web-part {
+    color: #4D5AE5;
+}
+
+.logo-studio-part {
+    color:#2E2F42;
+}
+
+.page-menu {
+    list-style-type: none;
+}
+
+.page-menu-list {
+color:#2E2F42;
+font-size: 16px;
+font-weight: 500;
+line-height: 150%;
+letter-spacing: 2%;
+text-decoration: none;
+}
+
+.page-menu-list:active, .page-menu-list:hover {
+    color: #404BBF;
+    text-decoration: underline;
+
+} 
+
+.page-menu-contacts {
+color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 2%;
+text-decoration: none;
+}
+
+.page-menu-contacts:active, .page-menu-contacts:hover {
+color: #404BBF;
+}
+
+.main-section-one {
+    background-color: #2E2F42;
+}
+
+.slogan {
+    color: #FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 107.143%;
+letter-spacing: 2%;
+}
+
+.order-servise-button {
+border-radius: 4px;
+background: #4D5AE5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+display: inline-flex;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+}
+
+.order-servise-button:active, .order-servise-button:hover {
+    display: inline-flex;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 4px;
+background:#404BBF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.order-servise-button-txt {
+    color:#FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 107.143%;
+letter-spacing: 2%;
+}
+
+.advantages-list {
+    list-style: none;
+}
+
+.advantages-list-title {
+color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 120%;
+letter-spacing: 2%;
+}
+
+.advantages-list-txt {
+color:#434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 2%;
 }
