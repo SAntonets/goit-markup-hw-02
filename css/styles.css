@@ -34,9 +34,9 @@ letter-spacing: 0.02em;
 text-decoration: none;
 }
 
-.page-menu-list:hover .page-menu-list:focus {
-color: #404bbf;
-} 
+.page-menu-list:hover, .page-menu-list:focus {
+    color:  #404bbf;
+}
 
 .adress {
     font-style: normal;
