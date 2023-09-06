@@ -70,15 +70,15 @@ line-height: 107.143%;
 letter-spacing: 2%;
 }
 
-.order-servise-button {
+.border-servise-button {
 background: #4D5AE5;
 }
 
-.order-servise-button:active, .order-servise-button:hover {
+.border-servise-button:active, .border-servise-button:hover {
 background:#404BBF;
 }
 
-.order-servise-button-txt {
+.border-servise-button-txt {
     color:#FFF;
 text-align: center;
 font-size: 56px;
