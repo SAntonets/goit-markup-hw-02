@@ -6,9 +6,19 @@ body {
     font-style: normal;
 }
 
+/** list-type-none **/
 ul {
     list-style-type: none;
 }
+
+.page-menu {
+    list-style-type: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
 /** header **/
 
 .logo {
@@ -26,9 +36,7 @@ color: #4d5ae5;
     color: #2e2f42;
 }
 
-.page-menu {
-    list-style-type: none;
-}
+
 
 .page-menu-list {
 color:#2E2F42;
@@ -92,7 +100,7 @@ background:#404BBF;
 /** section 2 **/
 
 .advantages-list {
-    list-style: none;
+    list-style-type: none;
 }
 
 .advantages-list-title {
